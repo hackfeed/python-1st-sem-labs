@@ -1,2 +1,2 @@
-# Python_1st_sem_labs
-Python Labworks of 1st sem BMSTU
+# Python 1'st semestr labs, IU7
+Python Labworks of 1'st semestr BMSTU, IU7
